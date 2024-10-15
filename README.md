@@ -21,11 +21,11 @@ A feature-rich Android application built in Java using Android Studio that enabl
 ---
 
 ## Features
-- **Add Student: Enter and store new student details including name, roll number, department, and contact information.
-- **Update Student: Modify existing student data to keep the records up to date.
-- **Delete Student: Remove student entries when they are no longer required.
-- **Retrieve Student: Fetch and view student details from the database.
-- **Colorful and Animated Interface: The app has been designed with a colorful, animated, and visually appealing UI to enhance the user experience.
+- Add Student: Enter and store new student details including name, roll number, department, and contact information.
+- Update Student: Modify existing student data to keep the records up to date.
+- Delete Student: Remove student entries when they are no longer required.
+- Retrieve Student: Fetch and view student details from the database.
+- Colorful and Animated Interface: The app has been designed with a colorful, animated, and visually appealing UI to enhance the user experience.
 
 - **
 
@@ -39,10 +39,10 @@ A feature-rich Android application built in Java using Android Studio that enabl
 ---
 
 ## Tech Stack
-- **Java: For developing the application logic and Android features.
-- **XML: For designing the front-end layouts and user interfaces.
-- **SQLite: To store, retrieve, and manage the student records.
-- **Android Studio: The integrated development environment (IDE) used for building the app.
+- Java: For developing the application logic and Android features.
+- XML: For designing the front-end layouts and user interfaces.
+- SQLite: To store, retrieve, and manage the student records.
+- Android Studio: The integrated development environment (IDE) used for building the app.
 
 ---
 
