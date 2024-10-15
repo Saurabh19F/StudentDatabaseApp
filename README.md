@@ -56,7 +56,7 @@ A feature-rich Android application built in Java using Android Studio that enabl
 
 1. **Clone this repository**:
    ```bash
-   https://github.com/Saurabh19F/StudentDatabaseApp.git   ```
+   https://github.com/Saurabh19F/StudentDatabaseApp.git  
 
 2. **Open the project** in Android Studio:
    - Go to Android Studio and select "Open an Existing Project."
