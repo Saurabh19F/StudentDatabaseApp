@@ -27,8 +27,6 @@ A feature-rich Android application built in Java using Android Studio that enabl
 - Retrieve Student: Fetch and view student details from the database.
 - Colorful and Animated Interface: The app has been designed with a colorful, animated, and visually appealing UI to enhance the user experience.
 
-- **
-
 ---
 
 ## Screenshots
