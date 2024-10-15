@@ -1,4 +1,3 @@
-
 Student Database App
 A feature-rich Android application built in Java using Android Studio that enables users to maintain a comprehensive student database. The app provides functionalities to Add, Update, Delete, and Retrieve student records in an interactive and visually appealing interface with animations and vibrant designs.
 
@@ -8,11 +7,19 @@ Update Student: Modify existing student data to keep the records up to date.
 Delete Student: Remove student entries when they are no longer required.
 Retrieve Student: Fetch and view student details from the database.
 Colorful and Animated Interface: The app has been designed with a colorful, animated, and visually appealing UI to enhance the user experience.
+
+
+
+
 Screenshots
 ![Screenshot 2024-10-15 164930](https://github.com/user-attachments/assets/c5eddbde-4900-4a36-87d1-59de5db44ee8)
 ![Screenshot 2024-10-15 165311](https://github.com/user-attachments/assets/e5bb42de-8095-4a4c-8eb8-18c74237c0b8)
 ![Screenshot 2024-10-15 165350](https://github.com/user-attachments/assets/8e14f019-11b7-4fd4-9056-c3ed3d7ae950)
 ![Screenshot 2024-10-15 165520](https://github.com/user-attachments/assets/9db1da43-e6ae-4a6d-812e-b9cce642343f)
+
+
+
+
 
 Tech Stack
 Java: For developing the application logic and Android features.
