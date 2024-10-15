@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751130026626",
+    "project_id": "studentdatabaseapp-afc15",
+    "storage_bucket": "studentdatabaseapp-afc15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751130026626:android:8cd4ae247b9776d0814a9b",
+        "android_client_info": {
+          "package_name": "com.example.studentdatabaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaxO7b9_faGtnFbxLs5gMLILx6fmRs3jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

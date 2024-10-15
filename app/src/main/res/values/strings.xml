@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudentDatabaseApp</string>
+    <string name="retrieved_data_will_appear_here">Retrieved Data Will Appear Here</string>
+    <string name="icloud_id">Icloud ID</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="fetch_student">Fetch Student</string>
+    <string name="update_student">Update Student</string>
+    <string name="add_student">Add Student</string>
+</resources>

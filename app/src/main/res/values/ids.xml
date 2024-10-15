@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAdd" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="btnRetrieve" type="id" />
+    <item name="tvResult" type="id" />
+    <item name="addButton" type="id" />
+    <item name="updateButton" type="id" />
+    <item name="deleteButton" type="id" />
+    <item name="retrieveButton" type="id" />
+    <item name="IdInput" type="id" />
+    <item name="logoImageView" type="id" />
+</resources>
